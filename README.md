@@ -1,2 +1,2 @@
-# sbfreelance.github.io
-Invite site for Santa Barbara Freelance
+# campgroups.github.io
+Let's camp together!
